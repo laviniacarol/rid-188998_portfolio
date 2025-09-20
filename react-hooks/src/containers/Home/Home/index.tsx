@@ -1,5 +1,5 @@
-import { About, Title } from ".//styles"
-import Button from "../../components/Button";
+import { About, Title } from "../../../styles/styles"
+import Button from "../../../components/Button";
 
 function Home () {
     return (
