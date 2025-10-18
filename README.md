@@ -22,6 +22,7 @@ State management and React hooks
 
 Modular and reusable code structure
 
+<br>
 
 ⚙ Funcionalidades
 
@@ -31,9 +32,7 @@ Listagem de projetos desenvolvidos
 
 Navegação entre seções utilizando React Router
 
-Responsividade para dispositivos móveis
-
-🖼 Demonstração
+<br>
 
 🧪 Como Rodar
 
